@@ -1,0 +1,7 @@
+# MVPTest
+
+MVP模式
+
+看了一篇关于android使用MVP模式的文章，其中提出应该把所有视图相关的代码从activity和fragment中提出放入view层，剩下的复杂的逻辑和数据处理放入presenter层，觉得很有道理，这样view层就完全是展示和用户操作数据的收集，所以做了这个Demo。
+
+
